@@ -1,0 +1,14 @@
+body {
+   font-family: Arial;
+}
+h1 {
+  border: 5px solid #04440e;
+   background: greenyellow ;
+}
+img {
+width: 270px;
+}
+
+div {
+    border: 5px solid gray;
+}
